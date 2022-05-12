@@ -337,20 +337,20 @@ section {
 /* media query for smaller desktop screens and smaller */
 @media screen and (max-width: 980px) {
     header h1 a {
-        color: tomato;
+
     }
 }
 
 /* media query for tablets and smaller */
 @media screen and (max-width: 768px) {
     header h1 a {
-        font-size: 80px;
+        
     }
 }
 
 /* media query for mobile phones and smaller */
 @media screen and (max-width: 575px) {
     header h1 a {
-        font-size: 100px;
+        
     }
 }
